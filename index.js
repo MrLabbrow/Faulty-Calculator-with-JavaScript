@@ -1,7 +1,7 @@
 let random = Math.random();
 
 // prompt(random)
-console.log(`The Rendom Number is = ${random}`);
+// console.log(`The Rendom Number is = ${random}`);
 
 let a = prompt("Enter first number")
 let c = prompt("Enter operation")
